@@ -1,4 +1,4 @@
-![](https://github.com/morganlbruce/morganlbruce/blob/main/x_min--0.7--x_max--0.5--y_min-0.4--y_max-0.6--res_step-0.0001-mandelbrot.png)
+<img src='x_min--0.7--x_max--0.5--y_min-0.4--y_max-0.6--res_step-0.0001-mandelbrot.png' width='600'>
 
 <!--
 **morganlbruce/morganlbruce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
