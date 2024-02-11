@@ -1,6 +1,4 @@
-<div align="center">
-  <img src='x_min--0.7--x_max--0.5--y_min-0.4--y_max-0.6--res_step-0.0001-mandelbrot.png' width='600'>
-</div>
+[<img align='center' src='x_min--0.7--x_max--0.5--y_min-0.4--y_max-0.6--res_step-0.0001-mandelbrot.png' width='836'>](https://github.com/morganlbruce/mandelbrot)
 
 <!--
 **morganlbruce/morganlbruce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
